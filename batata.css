@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=EB+Garamond:ital@1&family=Merienda&family=Roboto+Condensed&family=Yeseva+One&display=swap');
+body{
+    background-color: pink;
+    font-size: 2.3em;
+    border: 5px solid rgb(153, 30, 30) ;
+    
+    
+}
+
+h2{
+    text-shadow: 0px 0px 2px rgb(0, 255, 234) ;
+    font-size: 1.5
+    ;
+    
+}
+
+h1{
+    text-shadow: 0px 0px 2px red ;
+    text-decoration: underline;
+}
+
+
+p{
+    border: 5px solid black  ;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 15px;
+}
+
+h1,h2{
+    text-align: center;
+
+}
+
+#EB_Garamond {
+    font-family: 'EB Garamond', serif;
+}
+#Roboto_Condensed{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#Yeseva_One{
+    font-family: 'Yeseva One', cursive;
+}
+
+#Merienda{
+    font-family: 'Merienda', cursive;
+}
+
+#Courier_Prime{
+    font-family: 'Courier Prime', monospace;
+}
